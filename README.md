@@ -1,7 +1,6 @@
 
 # Run on Google Colab's GPU, Control from Your Local PC**
 
-**Harness the power of Google Colab's A100 GPUs and enjoy the convenience of local development. This guide shows you how to build, deploy, and control a chatbot running in the cloud, all from your own machine\! We've updated the code for better server management and a more interactive Gradio interface.**
 
 **Introduction**
 
